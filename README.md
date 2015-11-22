@@ -8,6 +8,8 @@ Uncomment the code between the horizontal dotted lines for corresponding solutio
 Change the length variable to change the number of input objects 
 All three solutions are written in seperate functions. To execute each uncomment the correponding section.
 
+                 ------------------------------------------------------------------------
+
 Folders -
 
   Raw Data - Inputs used for testing all the algorithms
@@ -17,6 +19,8 @@ Folders -
   Graphs - Graphs with different parameters to measure the efficiency of the algorithm
   
   Report - Detailed information about graphs and observations.
+
+                 ------------------------------------------------------------------------
 
 1)      Implemented three algorithms for solving the polynomial multiplication algorithm:
 
