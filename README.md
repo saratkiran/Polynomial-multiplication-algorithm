@@ -10,8 +10,11 @@ All three solutions are written in seperate functions. To execute each uncomment
 Folders -
 
   Raw Data - Inputs used for testing all the algorithms
+  
   Java Code - Code used for the algos
+  
   Graphs - Graphs with different parameters to measure the efficiency of the algorithm
+  
   Report - Detailed information about graphs and observations.
 
 1)      Implemented three algorithms for solving the polynomial multiplication algorithm:
